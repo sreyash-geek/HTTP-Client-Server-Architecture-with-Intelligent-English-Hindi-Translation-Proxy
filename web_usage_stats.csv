@@ -1,0 +1,29 @@
+Date,IP,Domain,Visits
+2023-11-05,"('127.0.0.1', 47512)","www.example.com",1
+2023-11-05,"('127.0.0.1', 47512)","www.example.com",1
+2023-11-05,"('127.0.0.1', 33008)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 47512)","www.example.com",1
+2023-11-05,"('127.0.0.1', 33008)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 33012)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 47512)","www.example.com",1
+2023-11-05,"('127.0.0.1', 33008)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 33012)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 55882)","www.gtu.ac.in",1
+2023-11-05,"('127.0.0.1', 47512)","www.example.com",1
+2023-11-05,"('127.0.0.1', 33008)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 33012)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 55882)","www.gtu.ac.in",1
+2023-11-05,"('127.0.0.1', 46272)","www.vit.ac.in",1
+2023-11-05,"('127.0.0.1', 47512)","www.example.com",1
+2023-11-05,"('127.0.0.1', 33008)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 33012)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 55882)","www.gtu.ac.in",1
+2023-11-05,"('127.0.0.1', 46272)","www.vit.ac.in",1
+2023-11-05,"('127.0.0.1', 47246)","srmuniversity.ac.in",1
+2023-11-05,"('127.0.0.1', 47512)","www.example.com",1
+2023-11-05,"('127.0.0.1', 33008)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 33012)","vernemqingress.hs-cricinfo.com:443",1
+2023-11-05,"('127.0.0.1', 55882)","www.gtu.ac.in",1
+2023-11-05,"('127.0.0.1', 46272)","www.vit.ac.in",1
+2023-11-05,"('127.0.0.1', 47246)","srmuniversity.ac.in",1
+2023-11-05,"('127.0.0.1', 48410)","app.superbot.works:443",1
